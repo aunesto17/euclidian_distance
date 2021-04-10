@@ -33,6 +33,7 @@ int main () {
             time_matrix[i][j] = duration;
             N = N+5;
         }
+        N = 10;
         S = S + 5000;
     }
     
